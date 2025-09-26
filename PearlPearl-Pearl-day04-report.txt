@@ -1,0 +1,95 @@
+  310  git --help
+  311  git status
+  313  man git
+  314  help git
+  315  git --help
+  316  info git
+  317  man git
+  318  git help status
+  319  git help init
+  320  git config --global user.name "PearlPearl-Pearl"
+  321  git config --global user.name
+  322  git confit --global user.email "pksandoh@gmail.com"
+  323  git config --global user.email "pksandoh@gmail.com"
+  324  git config --global user.email
+  338  git init
+  339  git status
+  344  cd .git/
+  354  cd simplestats/.git/
+  364  cd .git/
+  370  git tree
+  371  git --tree
+  373  git --help
+  374  man git
+  378  cd .git/
+  380  git status
+  382  git status
+  384  git status
+  385  git add README.md
+  386  git status
+  387  git commit -am "This is the first commit. It adds a readme file."
+  388  git status
+  393  git diff
+  395  git diff
+  396  diff --git
+  397  git diff
+  398  git diff --stat
+  399  git diff HEAD --README.md
+  400  git diff HEAD -- README.md
+  401  git diff --stat
+  402  git diff --cached
+  403  git status
+  404  git diff
+  405  git diff --cached
+  406  git diff --staged
+  407  git diff --cached
+  408  git status
+  409  git commit -am "Modified readme file"
+  410  git status 
+  412  git status
+  413  git commit -m "Modified readme file"
+  414  git add
+  415  git add README.md 
+  416  git diff --cached
+  417  git add file_1.txt 
+  418  git diff --cached
+  420  git log
+  421  git blame
+  422  git --blame
+  424  git log
+  426  git status
+  427  git add file_2.txt 
+  428  git commit -am "Added file2"
+  429  git log
+  430  git log -p
+  432  git log
+  433  git log -p
+  434  git log -3
+  435  git log --oneline
+  436  git log --graph
+  437  git log --pretty=short/fuller/oneline
+  438  git log --pretty = short/fuller/oneline
+  439  git log --pretty short/fuller/oneline
+  440  git log --pretty
+  441  git log --pretty=short
+  442  git log --pretty=fuller
+  443  git log --pretty = full
+  444  git log --pretty=full
+  445  git status
+  446  git reset file_2.txt
+  447  git status
+  450  git status
+  451  git checkout -- README.md
+  452  git status
+  455  git rm READYOU.md 
+  458  git rm READYOU.md 
+  459  git add READYOU.md 
+  460  git commit -m "Added a READYOU.md file"
+  461  git rm READYOU.md 
+  462  git status
+  463  git rm *
+  464  git status
+  465  git add .
+  472  git commit
+  474  history | grep "git"
+  475  history | grep "git" > pearl_commands_history.txt
